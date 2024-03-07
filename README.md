@@ -1,6 +1,6 @@
 # Medical Center Website 🏥
 
-That's a website that I have crafted and deployed some time ago --------> www.domus-medica-calenzana.com
+That's a website that I have crafted and deployed some time ago ----> www.domus-medica-calenzana.com
 
 What I mainly used to create this website :
 
