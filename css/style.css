@@ -393,7 +393,7 @@ section.section.doctor-single {
 }
 
 section.contact-form-wrap.section {
-  margin-top: 120px;
+  margin-top: 145px;
 }
 
 .subtitle {
@@ -909,7 +909,7 @@ cursor: pointer;
     background: #fff;
     background-size: cover;
     min-height: 30px;
-    margin-top: 135px;
+    margin-top: 140px;
 }
 
 .banner6 {
@@ -1368,5 +1368,6 @@ transition:0.8s ease-in-out;
   opacity: .8;
   font-family: 'Comfortaa';
   text-shadow: 1px 1px 1px rgb(20, 19, 19), 0 0 1em rgb(249, 239, 239), 0 0 0.1em black;
+  cursor: pointer;
   }
 }
