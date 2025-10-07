@@ -24,4 +24,4 @@ What I mainly used to create this website :
 
 • SEO: Setting up good SEO practices.
 
-Feel free to check out the website, explore the features, download, and fork this repository ! If you have any feedback or suggestions, please don't hesitate to reach me out !
+Feel free to check out the website, explore the features, download, and fork this repository ! If you have any feedback or suggestions, please don't hesitate to reach me out!
